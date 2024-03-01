@@ -3,7 +3,7 @@
 </p>
  <hr>
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------>
-<div align="left">
+<div align="center">
   <p >
  I am a passionate developer with experience in creating attractive
  and functional web applications, both on the frontend and backend.
@@ -14,9 +14,9 @@
  to create technological solutions that meet user needs and business
  objectives.
   </p>
-</div>
-<a href="https://www.linkedin.com/in/porras-daniela/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/porras-daniela/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href = "mailto:demporras@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
  <hr>
  
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------>
